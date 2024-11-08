@@ -1,0 +1,1 @@
+This is my HTML odin recipes project. By completing this, I should know how to add elements like head, body, heading, anchor, images, links and more.
